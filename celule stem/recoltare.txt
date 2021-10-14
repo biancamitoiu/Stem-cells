@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html/>
+<head>
+<style type="text/css">
+
+.stilpoza{position:fixed; left:0px top:0px; width:1800px; height:750px; z-index:-1; opacity:0.2}
+</style>
+<title>Obtinerea celulelor stem</title>
+</head>
+<body>
+<img src="genetic-ethics1_0.jpg" class="stilpoza"/>
+<h3>PRELEVARE</h3>
+<img src="bulina_stocare_stem2.jpg"/>
+<p>Procedura dureaza câteva minute, este nedureroasa ?i lipsita de riscuri atât pentru mama, cât ?i pentru copil. Dupa nastere, se face clamparea cordonului si taierea lui, copilul fiind preluat de catre echipa de neonatologie.  Punga de prelevare este prevazuta cu doua ace si con?ine anticoagulant cu rolul de a preveni formarea cheagurilor în timpul procesului de recoltare. Medicul obstetrician punc?ioneaza vena ombilicala, iar sangele din cordonul ombilical ajunge in punga de recoltare datorita gravitatiei. </p>
+<p>Kitul care contine proba de sange din cordonul ombilical trebuie mentinut la temperatura camerei.</p>
+<h3>STOCAREA</h3>
+<img src="bulina_stocare_stem.jpg"/>
+<p>Dupa congelarea programata, unitatea de celule stem este transferata intr-un tanc de carantina temporara unde ramane pana la obtinerea tuturor rezultatelor analizelor bacteriologice si virusologice.</p>
+<p>Daca rezultatele sunt favorabile, unitatea este transferata intr-un tanc de stocare definitiva.</p>
+<p>Unitatile contaminate sunt depozitate intr-un tanc special de carantina permanenta.</p>
+<h3>TESTAREA</h3>
+<img src="bulina_stocare_stem3.jpg"/>
+<p>Este un proces care se desfasoara in paralel cu procesarea si presupune: teste cantitative (cuantificarea numarului total de celule si a numarului de celule stem CD34+, viabilitatea celulara etc.) si teste calitative (implica verificarea posibilei contaminari bacteriene) efectuate pe sange de cordon ombilical. In plus, se face un screening complet al sangelui matern, pentru a avelua riscul transmiterii unei boli infectioase de la mama la fat (virus hepatic B, virus hepatic C, HIV, HTLV, CMV , sifilis - Treponema pallidum). Testarea este o etapa extrem de importanta, pentru ca o unitate insuficient testata poate aduce/ genera suprize in momentul solicitarii ei de catre un centru de terapii celulare sau de transplant.</p>
+<h4>Pentru a minimiza riscul de contaminare:</h4>
+<ul>
+<li>procesarea se desfasoara in camera curata/ clean room prevazuta cu hote cu flux laminar, iar calitatea aeurlui este permanent monitorizata</li>
+<li>procesarea are loc in sistem inchis (adica probele biologice nu sunt niciun moment in legatura directa cu aerul) un sistem triplu de pungi</li>
+<li>sunt  efectuate periodic teste de sanitatie de catre un laborator independent</li>
+<li>unitatile de sange de cordon ombilical sunt stocate in sistem complex de ambalare: punga de stocare, o punga de protectie si o caseta metalica din aluminiu</li>
+<li>unitatile infectate sau incomplet testate sunt stocate separat separat de unitatile conforme (sistem de carantinare)</li>
+</ul>
+
+</body>
+</html>

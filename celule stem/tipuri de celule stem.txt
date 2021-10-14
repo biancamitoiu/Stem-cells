@@ -1,0 +1,14 @@
+<!DOCTYPE html> 
+<html>
+<head>
+<title>Tipuri de celule stem</title>
+</head>
+<body>
+<h1 align="center">Tiputi de celule stem</h1>
+<div><p>Pe baza potentialului de diferentiere, celulele stem se pot clasifica in 5 categorii:</p>
+<br/>
+<h4 align="left">1. Celulele Totipotent (sau Omnipotent)</h4>
+<p>Aceste celule stem sunt cele mai puternice din câte exista. Acestea se pot diferentia în tesuturi embrionare, precum si testuri extra-embrionice, cum ar fi corionul, sacul vitelin, amnionul si alantoizii. La oameni si la alte animale placentare, aceste tesuturi formeaza placenta.</p>
+<p>Cea mai importanta caracteristica a unei celule totipotent este ca poate genera un organism complet functional si viu.</p>
+</body>
+</html>

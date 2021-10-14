@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style type="text/css">
+
+.stilpoza{position:fixed; left:0px top:0px; width:1800px; height:750px; z-index:-1; opacity:0.2}
+<title>Aplicatii ale celulelor stem</title>
+</head>
+<body>
+<img src="fond-0.jpg" class="stilpoza"/>
+
+</body>
+</html>
